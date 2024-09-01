@@ -1,2 +1,2 @@
 # First-Repostiory
-This is my first repostiory.
+This is my First Repostiory.
